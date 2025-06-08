@@ -1,0 +1,8 @@
+# dev_config
+AMI_ID="ami-0731becbf832f281e"
+INSTANCE_TYPE="t2.micro"
+KEY_NAME="dev"
+SECURITY_GROUP="sg-0c6579d514de45d12"
+REGION="us-east-1"
+INSTANCE_COUNT=1
+
