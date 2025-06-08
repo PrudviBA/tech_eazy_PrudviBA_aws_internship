@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# Usage: ./deploy.sh <Stage>
-# Example: ./deploy.sh dev
-
 if [ -z "$1" ]; then
   echo "Error: Please provide the stage (dev/prod)."
   exit 1
