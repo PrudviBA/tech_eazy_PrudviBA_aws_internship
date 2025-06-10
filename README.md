@@ -42,7 +42,8 @@ This project automates the deployment of a Java-based application on an AWS EC2 
 ### 7. Clean Up:
   - After testing the deployment, terminate the EC2 instance manually or via the script to avoid extra AWS costs.
   - The deployment script automatically stops the instance at the end, but you can verify in the AWS console to ensure it’s stopped.
-
+### 8. Debug Note
+  - This branch is for debugging the port 80 accessibility issue.
 
     
 
